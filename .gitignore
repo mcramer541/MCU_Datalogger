@@ -2,3 +2,5 @@
 *.dsn
 *Gerber/*
 *backups/*
+*.lck
+*#auto_save*
