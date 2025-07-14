@@ -1,6 +1,6 @@
 *.xml
 *.dsn
-*Gerber/*
+*Gerbers/*
 *backups/*
 *.lck
 *#auto_save*
