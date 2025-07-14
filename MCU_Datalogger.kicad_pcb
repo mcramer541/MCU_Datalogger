@@ -169,19 +169,19 @@
 			(uuid "745877d7-3d78-4af2-9c6c-f4b2ff9f55cb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "ATMEGA328P-AU"
-			(at 7.365 6.79 0)
-			(layer "F.Fab")
+			(at 1.016 6.731 0)
+			(layer "F.SilkS")
 			(uuid "5d138c14-d912-4faf-bd43-e96f833fab42")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -931,19 +931,20 @@
 			(uuid "30baa86e-1343-4ff3-af1e-52f1febc2c85")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
 			(at 0 3.05 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "a6e2254a-e779-432b-97a7-393c71e68f98")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1025,24 +1026,24 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C3"
-			(at 0 1.905 0)
+			(at 0 -1.397 0)
 			(layer "F.SilkS")
 			(uuid "fd2559da-4f07-4b44-ac0c-73fc768fafa3")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "22 pF"
 			(at 0 1.68 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "baecfcf9-14dd-4def-b7ed-7fd602512b0f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1242,19 +1243,20 @@
 			(uuid "3ad7b7ec-e4df-4b96-818a-bff67f781e72")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "Conn_02x03_Odd_Even"
 			(at 1.27 7.46 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4bdcd285-fb47-43b3-be0b-cd9138753a2d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1567,24 +1569,24 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R2"
-			(at 0 -1.65 0)
+			(at 1.143 1.27 0)
 			(layer "F.SilkS")
 			(uuid "fe045926-d71f-4bc4-bebd-9f7da833d7b1")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "10 kOhm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at -1.143 -1.524 0)
+			(layer "F.SilkS")
 			(uuid "f0758d26-fb9c-42f7-b5b6-91b1aaf44ce4")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1779,24 +1781,24 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 -1.905 0)
+			(at 2.54 0.127 0)
 			(layer "F.SilkS")
 			(uuid "2da7fa4c-02e7-4504-877b-7ce61ba7a6f0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 0 1.68 0)
-			(layer "F.Fab")
+			(at -3.81 -0.127 0)
+			(layer "F.SilkS")
 			(uuid "89e3441e-1441-452f-857d-0230711d5089")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -1991,24 +1993,24 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at 0.127 1.778 0)
+			(at -0.127 -1.524 0)
 			(layer "F.SilkS")
 			(uuid "ebcba347-1af3-4e2a-a095-90559959b2bb")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "0.1 uF"
-			(at 0 1.68 0)
-			(layer "F.Fab")
+			(at -0.127 1.524 0)
+			(layer "F.SilkS")
 			(uuid "004a02a7-a24c-40bd-b80d-ffa0143247e3")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2208,19 +2210,19 @@
 			(uuid "8d7c0ea3-973f-475a-8f8f-eb42b77d24d0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "24LC1025"
 			(at 0 3.6 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c9c1c988-e7d0-43bb-9600-221354357e76")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2631,19 +2633,19 @@
 			(uuid "7514b85b-466c-4f5d-a027-d6fe300bd5bc")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "330 Ohm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at -0.762 -1.524 0)
+			(layer "F.SilkS")
 			(uuid "46ceeb14-e5bb-4ad1-a972-5457628cb4f0")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -2838,24 +2840,24 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R6"
-			(at 0 -1.65 0)
+			(at -1.1195 -1.397 0)
 			(layer "F.SilkS")
 			(uuid "0f849e93-47f9-4089-8307-50b63ba51c53")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "10 kOhm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at 0.9125 1.397 0)
+			(layer "F.SilkS")
 			(uuid "bd62399b-0884-4e96-bc02-e8800ac7687a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3055,19 +3057,19 @@
 			(uuid "9e6df1fa-e502-4f39-92e8-4000f42e5529")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "Battery"
 			(at 0 4.92 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "c4f2872e-e98b-4666-81de-c47c33aa2075")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3302,24 +3304,25 @@
 		(descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x04 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.38 90)
+			(at 2.3876 -1.27 180)
 			(layer "F.SilkS")
 			(uuid "5c01f7d6-86c2-4be2-a3d0-5eb1618b9e2b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 10 90)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7b55c516-61db-430d-8548-8569a8e1295d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3596,19 +3599,20 @@
 			(uuid "fb9cce11-209a-4ec2-96a7-e219773e7e13")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
 			(at 0 3.05 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5668c770-efc3-4af5-ab39-fb9ee057a47b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -3693,19 +3697,19 @@
 			(uuid "1963e88d-d2bf-4564-850b-602cadee3ef5")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "DS1337S_"
-			(at 7.46 3.332 0)
-			(layer "F.Fab")
+			(at 5.715 3.31 0)
+			(layer "F.SilkS")
 			(uuid "349f5547-52ee-4578-bbde-e15af8e46e86")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4060,24 +4064,25 @@
 		(descr "Through hole straight pin header, 1x09, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x09 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.38 90)
+			(at 2.413 -1.276 180)
 			(layer "F.SilkS")
 			(uuid "d2a337b1-f162-44b7-ac17-7c1c78790ae8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "Conn_01x09_Pin"
-			(at 0 22.7 90)
-			(layer "F.Fab")
+			(at 0.381 22.352 90)
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ea6c1f52-1312-4a7c-9040-8151d37c00af")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4408,19 +4413,20 @@
 			(uuid "6611ccaf-4030-409c-97b0-80ff1ff3ddc9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
 			(at 0 10 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c29f26fb-9057-44b6-93b2-aa189e7624b8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4691,24 +4697,24 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at -0.0235 1.651 0)
+			(at 2.5165 0.127 0)
 			(layer "F.SilkS")
 			(uuid "5de333cb-abed-4f19-8dca-d5ab0e04ad53")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "4.7 kOhm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at -0.0235 -1.397 0)
+			(layer "F.SilkS")
 			(uuid "8bc79da6-dbe9-421d-9226-a5d32bacab4f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -4903,24 +4909,24 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R1"
-			(at -0.3556 1.524 0)
+			(at -1.1176 -1.27 0)
 			(layer "F.SilkS")
 			(uuid "132ac012-0431-425a-a3bd-ec0ae53fb44f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
-		(property "Value" "10k"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+		(property "Value" "10kOhm"
+			(at 0.4064 1.524 0)
+			(layer "F.SilkS")
 			(uuid "6823be71-9de8-4de8-ad3f-a0dc677069c7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5121,19 +5127,19 @@
 			(uuid "2fc21b2e-8190-4d6a-8bd7-ede2f81e6b7e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
 			(at 0 3.05 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "ac9458f8-8472-4053-bcce-9e6fc30b685b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5221,19 +5227,20 @@
 			(uuid "28f8e4d2-dcd1-4e1c-bf5d-14562d2c526d")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "MountingHole"
 			(at 0 3.05 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ee97f6a5-f0fc-4df7-b03a-231f4a0c2c1a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5315,24 +5322,24 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 0 2.159 0)
+			(at 0 -1.397 0)
 			(layer "F.SilkS")
 			(uuid "dd928dd5-a8da-4cab-96a0-21b66c20a40a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "100 nF"
 			(at 0 1.68 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "6c37b653-305c-4430-b520-97ff6f3cddef")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5527,24 +5534,24 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 1.397 0)
+			(at 2.54 -0.127 0)
 			(layer "F.SilkS")
 			(uuid "f217653a-3fa0-4b7d-9b73-f44cf6071973")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "22 pF"
-			(at 0 1.68 0)
-			(layer "F.Fab")
+			(at -3.556 -0.1778 0)
+			(layer "F.SilkS")
 			(uuid "10d64e4e-46ab-439f-8ef0-999f6c11d0fd")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5739,24 +5746,24 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D1"
-			(at 2.921 0.127 0)
+			(at -1.143 -1.397 0)
 			(layer "F.SilkS")
 			(uuid "fcc40d0e-4fd8-445d-b189-b8928cb4a896")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at 2.921 0.127 0)
+			(layer "F.SilkS")
 			(uuid "6a6b1a70-dcea-420c-9145-0db43b8031fc")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -5978,19 +5985,19 @@
 			(uuid "174b5298-2c9f-4fb7-a9ff-48708237ec5f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "24LC1025"
 			(at 0 3.6 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "2486e29f-7779-4ada-b20f-2d3675a92ef7")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6395,24 +6402,24 @@
 		(at 92.202 94.742 90)
 		(descr "SMD2520/2, Crystal, 5.0x3.2mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf")
 		(property "Reference" "Y1"
-			(at 0 3.048 90)
+			(at -5.334 1.016 90)
 			(layer "F.SilkS")
 			(uuid "cd005641-3102-4c38-b745-140ce157318a")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "32.768 KHz"
-			(at 0 2.8 90)
-			(layer "F.Fab")
+			(at 0.135 2.735 90)
+			(layer "F.SilkS")
 			(uuid "66945a60-9d9c-49e8-9b9a-5ddb2c164628")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6573,24 +6580,24 @@
 		(descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "LED")
 		(property "Reference" "D2"
-			(at -2.667 -0.127 0)
+			(at -1.397 -1.397 0)
 			(layer "F.SilkS")
 			(uuid "818ed07d-2be8-4c9f-854e-31fc43a6f06b")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "LED"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at -2.667 0.127 0)
+			(layer "F.SilkS")
 			(uuid "e4a25a89-d03d-449f-80ed-f9eaa7e080d8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6811,19 +6818,19 @@
 			(uuid "f11ee541-8035-436f-a60e-675b0df39159")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "16 MHz"
 			(at 0 2.8 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "19dcb18b-8b01-4743-84ac-3e990ff6d1f9")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -6984,24 +6991,24 @@
 		(descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R4"
-			(at 0 1.524 0)
+			(at 1.2465 1.27 0)
 			(layer "F.SilkS")
 			(uuid "7c511c5f-5417-4609-90de-7c50d858b644")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "4.7 kOhm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at 0.2305 -1.524 0)
+			(layer "F.SilkS")
 			(uuid "fe88098b-70c2-49db-bf1e-022219338b75")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
@@ -7201,19 +7208,19 @@
 			(uuid "61c5f116-eaef-469b-bf8d-36823c84fcbc")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
 		(property "Value" "330 Ohm"
-			(at 0 1.65 0)
-			(layer "F.Fab")
+			(at -0.127 1.524 0)
+			(layer "F.SilkS")
 			(uuid "25be2af2-61b9-4f46-821e-a160dbaf8dad")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.7 0.7)
+					(thickness 0.1)
 				)
 			)
 		)
