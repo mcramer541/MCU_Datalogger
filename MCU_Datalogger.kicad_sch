@@ -4595,6 +4595,16 @@
 		)
 		(uuid "9f8d9336-fb0e-4490-baa9-0b4bffb82f92")
 	)
+	(label "Vcc"
+		(at 257.175 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8c69cfc-c90a-4cd9-805e-47eb72bbdf94")
+	)
 	(label "D3"
 		(at 229.87 50.8 180)
 		(effects
