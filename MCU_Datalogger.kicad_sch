@@ -2639,6 +2639,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Memory"
+		(exclude_from_sim no)
+		(at 19.05 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6a3dc3b4-3d17-445d-a4c2-9deaf0fa5145")
+	)
+	(text "Real time clock"
+		(exclude_from_sim no)
+		(at 24.13 15.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b37e8ba5-ea9c-4c24-b770-10fc43f8451b")
+	)
+	(text "MCU\n"
+		(exclude_from_sim no)
+		(at 144.78 17.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "bc23a4db-4c42-4015-81b8-b7937d6305ec")
+	)
 	(junction
 		(at 110.49 29.21)
 		(diameter 0)
@@ -2875,6 +2905,16 @@
 		)
 		(uuid "0bb6a8a9-4c46-4513-804a-863c12e0d83c")
 	)
+	(polyline
+		(pts
+			(xy 142.875 19.05) (xy 273.05 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e60af36-981a-421f-8984-2f065ee4e88b")
+	)
 	(wire
 		(pts
 			(xy 226.06 86.36) (xy 229.87 86.36)
@@ -2894,6 +2934,16 @@
 			(type default)
 		)
 		(uuid "1122a8ae-b53f-49ee-9e55-c6631993a68a")
+	)
+	(polyline
+		(pts
+			(xy 127 184.15) (xy 15.875 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12cfa8ce-787b-4bc1-a4d2-f4f4bd5492b5")
 	)
 	(wire
 		(pts
@@ -3125,6 +3175,16 @@
 		)
 		(uuid "38dbabf5-d79e-44db-abf6-adba59aa679f")
 	)
+	(polyline
+		(pts
+			(xy 136.525 76.2) (xy 136.525 15.875)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39bf538d-a438-4eca-9bb7-1d22679ed5b7")
+	)
 	(wire
 		(pts
 			(xy 146.05 41.91) (xy 146.05 44.45)
@@ -3225,6 +3285,16 @@
 		)
 		(uuid "47900f07-a0a9-44a1-b22b-414af5879964")
 	)
+	(polyline
+		(pts
+			(xy 15.875 127) (xy 127 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d8e854-bc2b-4646-8701-d6d1b57aaafe")
+	)
 	(wire
 		(pts
 			(xy 229.87 60.96) (xy 226.06 60.96)
@@ -3284,6 +3354,16 @@
 			(type default)
 		)
 		(uuid "516e35ea-bbe2-40be-ba91-610eb40ff468")
+	)
+	(polyline
+		(pts
+			(xy 15.875 76.2) (xy 136.525 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ceb0675-f85a-478e-9b7b-7eb61ce16472")
 	)
 	(wire
 		(pts
@@ -3375,6 +3455,16 @@
 		)
 		(uuid "6d938133-8f88-475e-9913-87b0ad90b0ab")
 	)
+	(polyline
+		(pts
+			(xy 15.875 15.875) (xy 15.875 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dbb9672-eb09-4ab1-a89c-286b24f45f0e")
+	)
 	(wire
 		(pts
 			(xy 76.2 22.86) (xy 76.2 29.21)
@@ -3444,6 +3534,16 @@
 			(type default)
 		)
 		(uuid "7a6c475d-4aa7-435a-ae7c-27375b538ec7")
+	)
+	(polyline
+		(pts
+			(xy 273.05 19.05) (xy 273.05 98.425)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c6ce5bd-33a0-4668-a279-ffa4bf3b5c94")
 	)
 	(wire
 		(pts
@@ -3575,6 +3675,16 @@
 		)
 		(uuid "9a3244a6-0702-4068-9225-c83725893ffb")
 	)
+	(polyline
+		(pts
+			(xy 127 127) (xy 127 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ededbd7-d076-45a8-858b-49714d446d9b")
+	)
 	(wire
 		(pts
 			(xy 237.49 123.19) (xy 232.41 123.19)
@@ -3604,6 +3714,16 @@
 			(type default)
 		)
 		(uuid "a8fa33ad-95ea-443f-ba1c-36778606ffab")
+	)
+	(polyline
+		(pts
+			(xy 15.875 127) (xy 15.875 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a91b7d83-d673-4935-9f0c-2dc1ae1bc487")
 	)
 	(wire
 		(pts
@@ -3664,6 +3784,16 @@
 			(type default)
 		)
 		(uuid "b9c026e3-1d5b-47d3-b4c7-6b30f712a1d5")
+	)
+	(polyline
+		(pts
+			(xy 136.525 15.875) (xy 15.875 15.875)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9f3863c-ead5-47c3-b134-bca73d7b118e")
 	)
 	(wire
 		(pts
@@ -3794,6 +3924,16 @@
 			(type default)
 		)
 		(uuid "d3ed80ad-1289-4ac1-a272-fdf02262178f")
+	)
+	(polyline
+		(pts
+			(xy 273.05 98.425) (xy 142.875 98.425)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d89da723-170c-4e77-8013-ee89ed7cac5c")
 	)
 	(wire
 		(pts
@@ -3994,6 +4134,16 @@
 			(type default)
 		)
 		(uuid "ef6e0b31-4d6f-450a-8d77-71f6a21f8ec2")
+	)
+	(polyline
+		(pts
+			(xy 142.875 19.05) (xy 142.875 98.425)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb19316-d729-490c-bb16-630d0f8532ae")
 	)
 	(wire
 		(pts
