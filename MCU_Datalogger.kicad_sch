@@ -3161,6 +3161,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 146.05) (xy 205.74 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bedb37e-177d-45ad-808c-1a3af306bbd7")
+	)
+	(wire
+		(pts
 			(xy 229.87 45.72) (xy 226.06 45.72)
 		)
 		(stroke
@@ -4448,6 +4458,16 @@
 			(justify right bottom)
 		)
 		(uuid "51259ecd-92be-44dd-8cd9-758e8455f5a0")
+	)
+	(label "SCK"
+		(at 199.39 146.05 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5184e38f-5545-4ac5-8234-e4a5403cb9eb")
 	)
 	(label "SDA"
 		(at 191.77 76.2 0)
@@ -7931,6 +7951,16 @@
 		(pin "SDA" bidirectional
 			(at 205.74 124.46 180)
 			(uuid "55b3c2d2-514f-4082-a7c8-31312dd6f472")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" passive
+			(at 205.74 146.05 180)
+			(uuid "f593bece-b849-499b-b31c-b5ac38846f07")
 			(effects
 				(font
 					(size 1.27 1.27)
