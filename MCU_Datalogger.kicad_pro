@@ -237,12 +237,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "lib_symbol_mismatch|2108200|609600|4d447c8d-aba2-471c-bf6e-b299ae55613f|00000000-0000-0000-0000-000000000000|||",
-        "This is in order to ensure that there are no overlapping pins like in the default library"
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
